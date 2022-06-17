@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c837a77.css",
+    "main.js": "/static/js/main.09d92959.js",
+    "static/media/header1.jfif": "/static/media/header1.74ae7359a98cb51175fa.jfif",
+    "static/media/header3.jfif": "/static/media/header3.f24385f4afdfe63a199f.jfif",
+    "static/media/header2.jfif": "/static/media/header2.690c9ac2b0b1a01f531a.jfif",
+    "static/media/about.png": "/static/media/about.c0e48b35ff94335b9398.png",
+    "static/media/ProximaNova-Regular.ttf": "/static/media/ProximaNova-Regular.db098dc77c7aafe660e58e9eb280be48.db098dc77c7aafe660e5.ttf",
+    "static/media/logo-v2.png": "/static/media/logo-v2.f02d14bb91c640631e60.png",
+    "static/media/logo.png": "/static/media/logo.64adab0822c182659d40.png",
+    "static/media/facebook.png": "/static/media/facebook.dad39bbacf723c1755bc.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/shopping-cart.svg": "/static/media/shopping-cart.bb0186e7fd56f31669162d620bea8795.svg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.1c837a77.css.map": "/static/css/main.1c837a77.css.map",
+    "main.09d92959.js.map": "/static/js/main.09d92959.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c837a77.css",
+    "static/js/main.09d92959.js"
+  ]
+}
